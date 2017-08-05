@@ -76,7 +76,7 @@ a:hover {
 }
 
 #search #search-button {
-    background: #EE6A05;
+    background: #1b88b9;
     color: #FFF;
 }
 
@@ -118,8 +118,8 @@ a:hover {
 }
 
 #navigation {
-    background: #EE6A05;
-    border-bottom: 5px solid #FFC70B;
+    background: #1b88b9;
+    border-bottom: 5px solid #434443;
     min-height: 57px;
     z-index: 1000;
 }
@@ -727,15 +727,15 @@ a {
 
 .buttonCheckout,
 .btn-orange {
-    background-color: #EE6A05 !important;
-    border-color: #EE6A05 !important;
+    background-color: #1b88b9 !important;
+    border-color: #1b88b9 !important;
     color: #FFF !important;
 }
 
 .buttonCheckout,
 .btn-orange:hover {
-    background-color: #D55D01 !important;
-    border-color: #EE6A05 !important;
+    background-color: #1b88b9 !important;
+    border-color: #1b88b9 !important;
     color: #FFF !important;
 }
 
@@ -919,7 +919,7 @@ a {
 }
 
 .footer-section.orange {
-    background: #EE6A05;
+    background: #1b88b9;
 }
 
 #copyright {

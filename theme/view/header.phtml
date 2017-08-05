@@ -60,11 +60,11 @@
     <div id="header-bg">
         <div id="header-glob" class="container">
             <div class="row">
-                <div id="logo-wrapper" class="col-md-2">
+                <div id="logo-wrapper" class="col-md-3">
                     <a href="/" id="logo"><img alt="<?= \TeknoETicaret\Config\Settings::get('site.name') ?>" src="<?= view::getLogo('logo') ?>"
                                 srcset="<?= view::getLogo('logo') ?> 1x, <?= view::getLogo('logo2x') ?> 2x"/></a>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <form id="search" action="/ara">
                         <div id="search" class="input-group input-group-lg">
                             <?= menu::generateSearchCategoryMenu() ?>

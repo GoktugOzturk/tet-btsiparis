@@ -235,7 +235,7 @@
     font-size: 22px;
     line-height: 34px;
     font-weight: bold;
-    background: #EE6A05;
+    background: #1b88b9;
     float: right;
 }
 
@@ -247,7 +247,7 @@
 .add-to-cart:active,
 .add-to-cart:hover {
     color: #FFF !important;
-    background: #EE6A05 !important;
+    background: #1b88b9 !important;
 }
 
 .product-details {
@@ -282,7 +282,7 @@
 .product-details .nav li a:hover {
     border: 0;
     color: #FFF;
-    background: #EE6A05;
+    background: #1b88b9;
 }
 
 .sprite.sprite-details {
@@ -360,7 +360,7 @@
 
 #thumbnailCarousel a:hover,
 #thumbnailCarousel .active {
-    border: 3px solid #E9661F;
+    border: 3px solid #1b88b9;
 }
 
 .sprite.arrowUp {
