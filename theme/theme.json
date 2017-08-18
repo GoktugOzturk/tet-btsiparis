@@ -103,12 +103,12 @@
   "logos": {
     "logo": {
       "name": "Genel Site Logosu",
-      "width": 186,
+      "width": 211,
       "height": 58
     },
     "logo2x": {
       "name": "Genel Site Logosu (2x)",
-      "width": 372,
+      "width": 422,
       "height": 116
     },
     "fixedNav": {
