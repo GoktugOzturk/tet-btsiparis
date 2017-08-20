@@ -63,7 +63,10 @@ a:hover {
 }
 
 #logo img {
-    width: 100%;
+}
+
+.header-margin-fix {
+    margin-top: 6px;
 }
 
 #search .form-control,
@@ -1112,6 +1115,7 @@ a {
 .fix-height-items .item {
     min-height: 320px;
 }
+
 /*
 #mainSlider,
 #mainSlider .col-md-12 {
